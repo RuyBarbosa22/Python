@@ -1,0 +1,11 @@
+pc 1 = CPU = 3.6   Memoria = 40% disco = 20%
+pc 2 = CPU = 3.96  Memoria = 46%   Disco = 19%
+pc 3 = CPU = 4.15  Memoria = 42%   Disco = 57%
+
+a = 3.6
+b = 40
+c = 20
+
+x1 = a + b + c
+x2 = (a+0.36) + (b+6) + (c-1)
+x3 = (a+0.55) + (b+2) + (c+37) 
